@@ -1,9 +1,9 @@
 {
     "name": "helloworldapp",
-    "description": "HelloWolrd NodeJS App",
+    "description": "HelloWolrd Py App",
     "scripts": 
     {
-        "start": "node app.js"
+        "start": "node app.py"
     },
     "dependencies": {
         "express": "^4.15.3"
